@@ -42,6 +42,8 @@ int main() {
 ```
 <img width="861" height="359" alt="image" src="https://github.com/user-attachments/assets/89aeff08-a071-40fd-b655-a39aec118a26" />
 
+
+
 Висновок
 У ході виконання завдання було створено програму мовою C++, яка обчислює суму за формулою
 
