@@ -42,6 +42,8 @@ int main() {
 ```
 <img width="861" height="359" alt="image" src="https://github.com/user-attachments/assets/89aeff08-a071-40fd-b655-a39aec118a26" />
 
+<img width="597" height="1223" alt="Програмування (1)" src="https://github.com/user-attachments/assets/81af2d3a-1b89-4c22-bb69-3fd70e2455a3" />
+<img width="797" height="1318" alt="Програмування (2)" src="https://github.com/user-attachments/assets/a31287dd-8ac4-4c39-be37-f0693bce568e" />
 
 
 Висновок
